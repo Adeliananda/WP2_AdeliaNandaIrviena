@@ -35,7 +35,11 @@ $config['base_url'] = '';
 | variable so that it is blank.
 |
 */
+<<<<<<< HEAD
 $config['index_page'] = '';
+=======
+$config['index_page'] = 'index.php';
+>>>>>>> eb93f2781b608ad6f14e4385fe81c9fd58616762
 
 /*
 |--------------------------------------------------------------------------
